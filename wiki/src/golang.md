@@ -4,6 +4,5 @@
 
 ## Snippet
 ```
-let sampel = 9
-console.log(sampel)
+go mod init 'add your module name'
 ```
